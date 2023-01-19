@@ -3,6 +3,9 @@ import fetch from "node-fetch";
 import dotenv from 'dotenv';
 
 
+const id = ;
+const ACCESS_TOKEN = '';
+
 
 class UserModel {
     getPage = async () => {
